@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="thumbnail.png" alt="Project Zei Cover" width="600"/>
+  <br/>
+</div>
+<br/>
+
 # Project Zei: The Multi-Agent Architecture for Next-Gen Virtual Idols
 
 > **Building a coherent soul through orchestrated AI agents.**
