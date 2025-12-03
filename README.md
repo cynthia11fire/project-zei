@@ -17,6 +17,7 @@ Zei is a single virtual idol designed to maintain long-term personality consiste
 - **Narrative Memory:** Maintains context about the café lore, user preferences, and ongoing storylines.
 
 ## 🏗️ Architecture
+![Project Zei Architecture](System_Flow_Diagram.jpg)
 The system synthesizes distinct cognitive functions into one unified identity:
 
 1.  **Interaction Module (The Orchestrator):** Interprets intent and manages flow.
