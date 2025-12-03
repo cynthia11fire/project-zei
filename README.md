@@ -22,7 +22,7 @@ The system synthesizes distinct cognitive functions into one unified identity:
 1.  **Interaction Module (The Orchestrator):** Interprets intent and manages flow.
 2.  **Narrative Logic Module (The Planner):** Handles facts, lore, and reasoning.
 3.  **Persona Conditioning Engine (The Soul):** Injects emotion, tone, and character voice.
-
+---
 ## 🚀 Setup & Installation
 
 **Prerequisites:**
