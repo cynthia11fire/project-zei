@@ -1,16 +1,19 @@
 from agents import InteractionModule
+from dotenv import load_dotenv  # 新增：讓程式能讀懂 .env 檔
 import os
 import sys
+
+# 載入 .env 檔案中的環境變數 (這是關鍵！)
+load_dotenv()
 
 def main():
     print("Initializing Project Zei System...")
     print("Loading Multi-Agent Architecture (Logic + Persona + Interaction)...")
     
-    # Simple check for API Key
+    # 檢查 API Key 是否存在
     if not os.environ.get("GOOGLE_API_KEY"):
         print("\n[!] Error: GOOGLE_API_KEY environment variable not found.")
-        print("Please export your API key first using:")
-        print('export GOOGLE_API_KEY="your_api_key_here"')
+        print("Please make sure you have created the '.env' file with your API key.")
         return
 
     try:
@@ -20,9 +23,10 @@ def main():
         print(f"\n[!] Initialization Error: {e}")
         return
     
+    # 保留您原本漂亮的介面設計
     print("\n" + "="*40)
-    print("   ZESTORY CAFÉ - VIRTUAL IDOL SYSTEM")
-    print("   Powered by Google Gemini & ADK")
+    print("    ZESTORY CAFÉ - VIRTUAL IDOL SYSTEM")
+    print("    Powered by Google Gemini & ADK")
     print("="*40)
     print("Zei is ready to chat. Type 'exit' or 'quit' to end session.\n")
     
