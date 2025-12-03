@@ -261,4 +261,6 @@ MIT License
 ## 🎬 Project Zei: Identity Drift Solution Demo
 
 [▶️ Watch the Demo Video](https://github.com/cynthia11fire/project-zei/raw/main/ProjectZei_IdentityDrift_Solution_Demo%20(1).mp4)
+🎬 **Demo Video — Project Zei**
+https://youtu.be/GuxnJL2SR_g
 
