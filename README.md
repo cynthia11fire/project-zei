@@ -23,6 +23,28 @@ The system synthesizes distinct cognitive functions into one unified identity:
 2.  **Narrative Logic Module (The Planner):** Handles facts, lore, and reasoning.
 3.  **Persona Conditioning Engine (The Soul):** Injects emotion, tone, and character voice.
 
+## 🚀 Setup & Installation
+
+**Prerequisites:**
+* Python 3.9+
+* Google Gemini API Key
+
+**Installation:**
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/cynthia11fire/project-zei.git](https://github.com/cynthia11fire/project-zei.git)
+   cd project-zei
+
+Install dependencies:
+pip install -r requirements.txt
+
+Set up environment variables: Create a .env file in the root directory and add your API key:
+GOOGLE_API_KEY=your_api_key_here
+
+Run the Agent:
+python main.py
+
 ---
 
 ## 💻 Implementation / Source Code
