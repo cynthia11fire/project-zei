@@ -3,9 +3,15 @@
 
 ---
 
+## Abstract
+
+This document provides a research-oriented description of Project Zei, an experimental AI interaction prototype exploring long-term personality stability and narrative coherence through a modular multi-agent architecture. The project is positioned as a practice-based research probe, focusing on interaction design rationale and system structure rather than finalized product outcomes.
+
+---
+
 ## 1. Project Positioning
 
-Project Zei is an **experimental AI interaction prototype** exploring how a virtual character can maintain long-term personality stability, emotional coherence, and narrative consistency through a **multi-agent system architecture**.
+Project Zei is an **experimental AI interaction prototype** exploring whether a virtual character can maintain long-term personality stability, emotional coherence, and narrative consistency through a **modular multi-agent architecture**.
 
 Although users interact with Zei as a single virtual entity, the internal system separates interaction control, narrative logic, and persona conditioning into distinct modules. This project is positioned as a **practice-based research prototype**, not a finalized commercial product.
 
@@ -63,6 +69,9 @@ Project Zei adopts a **three-module internal structure**, inspired by multi-agen
 - Stabilizes personality traits across interactions  
 - Injects warmth and expressive nuance  
 
+**Interaction Flow Summary:**  
+User input is first processed by the Interaction Module, which queries the Narrative Logic Module for contextual grounding and the Persona Conditioning Engine for emotional and stylistic shaping, before synthesizing a unified in-character response.
+
 To the user, these modules remain invisible. Zei is experienced as one coherent character.
 
 ---
@@ -72,8 +81,8 @@ To the user, these modules remain invisible. Zei is experienced as one coherent 
 Project Zei is currently at the **prototype validation stage**.
 
 - The system demonstrates functional coordination between modules  
-- Interaction stability is tested through conversational scenarios  
-- Emotional tone and narrative flow are evaluated qualitatively  
+- Interaction stability is examined through repeated conversational scenarios  
+- Emotional tone and narrative flow are evaluated through qualitative observation  
 
 At this stage, the project does **not** claim to provide a finalized solution to long-term AI companionship. Instead, it serves as a **research probe** for examining interaction structure, design assumptions, and future research directions.
 
