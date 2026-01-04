@@ -99,7 +99,7 @@ Interaction Design Researcher / AI System Prototyping
 - Designed the interaction logic, narrative structure, and persona modeling framework  
 - Led the research-oriented system architecture and academic framing of the project  
 
-**Brian Lin**  
+**Lin En-Jeng**  
 Hardware Engineer / System Engineering Support  
 - Contributed engineering perspectives and system-level feasibility discussions  
 - Supported technical implementation considerations and hardware-oriented reasoning  
