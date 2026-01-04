@@ -111,9 +111,39 @@ Hardware Engineer / System Engineering Support
 
 ## 8. Future Research Direction
 
+Aligned with the National Taipei University of Technology’s emphasis on the integration of **technology, design thinking, and human-centered interaction**, this research aims to further bridge **AI system architecture and interaction design methodology** within practical service and experiential contexts.
+
 Future research may further explore:
 
 - interaction rhythm and emotional feedback models  
 - long-term memory structures for AI agents  
 - multi-agent coordination in service design contexts  
-- applications in co
+- applications in companionship, cultural interaction, and personalized digital experiences  
+
+These topics are intended to be developed through formal study in an interaction design graduate program.
+
+---
+
+## 9. Note for Reviewers
+
+This repository is provided as **supplementary material for graduate-level review**.  
+The focus is on research intent, interaction design thinking, and system architecture assumptions rather than polished product outcomes.
+
+---
+
+## Supplementary Materials (Prototype Reference)
+
+The following materials are provided as supplementary references for reviewers who wish to explore the prototype context and interaction flow of Project Zei:
+
+- Interactive Web Prototype (Zestory – Demo):  
+  https://cynthia11fire.github.io/zestory/
+
+- Extended Web Prototype (Experimental Version):  
+  https://zestory.byethost11.com/
+
+- System Demonstration Videos (YouTube):  
+  https://youtu.be/LDejpkXsAVI  
+  https://youtu.be/4Y9qFZHHX8U  
+
+These materials are intended solely as supporting references.  
+The primary focus of academic evaluation should remain on the design rationale and system architecture described above.
